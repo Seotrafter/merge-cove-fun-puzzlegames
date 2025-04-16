@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /about/
+Sitemap: https://merge-cove-fun-puzzlegames.com/sitemap.xml
